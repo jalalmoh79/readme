@@ -13,7 +13,7 @@
 * I enjoy building clean and responsive websites
 * Interested in Web Development & Software Engineering
 * Always learning new technologies
-* Love solving coding problems
+* Love solving coding problems.
 
 ---
 
