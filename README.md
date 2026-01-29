@@ -38,7 +38,7 @@
 
 🔗 Portfolio: [https://yourportfolio.com](https://jlmr-portfolio.netlify.app/)
 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jalalmr/)
-🐙 GitHub: [https://github.com/yourusername]()
+🐙 GitHub: [https://github.com/yourusername](https://github.com/jalalmoh79)
 
 ---
 
